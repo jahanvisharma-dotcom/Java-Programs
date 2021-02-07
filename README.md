@@ -7,6 +7,6 @@ Here are the list of java programs :
 4) to convert Fahrenheit to Celsius.
 5) program to compute area.
 6) Program to Display Unicode 
-7) Program to
+7) Program to Compute Area With Console Input
 
 
